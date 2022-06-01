@@ -1,0 +1,15 @@
+**Organização de tarefas de aprendizagem**
+
+- ##### Criar repositório no Github
+
+- ##### Clonar Repositório no Git
+
+- ##### Alterar repositório no git
+
+- ##### Adicionar arquivos no Git.
+
+- ##### Comitar arquivo no Git
+
+- ##### Enviar arquivo para o Github
+
+- 
